@@ -1,11 +1,11 @@
-# ASTR 302, Spring 2025, University of Washington: 
+# ASTR 302, Winter 2026, University of Washington: 
 # Python for Astronomy
 
-[Mario Jurić](https://dirac.astro.washington.edu/person/mario-juric/)
+[Željko Ivezić](https://faculty.washington.edu/ivezic/index.html)
 
 ## Location
 
- * When: 10:00-11:20am, TTh, Spring quarter 2025
+ * When: 10:00-11:20am, Tue/Thu, Winter quarter 2026
  * Where: PAA 210
 
 ## Class Materials
